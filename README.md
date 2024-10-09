@@ -32,8 +32,7 @@
             src="https://download.gamevault999.com/images/btn.gif" alt=""></a>
         </div>
     </div>
-    <a href="http://t.me/gamevaultsupport" target="_blank" class="TechnicalSupport"><img src="https://download.gamevault999.com/images/technical_support.png" alt=""></a>
-  </div>
+   
     <div class="popup hidden">
 		<!--<div class="popup-header">TIP</div>-->
 		<div class="popup-content">Please use the safari browser to download</div>
